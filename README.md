@@ -31,7 +31,7 @@ The Netflix Clone is a web application that allows users to browse and search fo
 Here we have a project screenshot:
 
 <p align="center">
-<img src="https://github.com/VedantSapate/Netflix-Clone/assets/144541195/498d21e8-8783-4688-87dd-4cf017e1a0e3" width="700" height="300" />
+<img src="https://github.com/VedantSapate/Netflix-Clone/assets/144541195/498d21e8-8783-4688-87dd-4cf017e1a0e3" width="640" height="480" />
 </p>
 
 ## Customization
